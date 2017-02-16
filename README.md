@@ -1,4 +1,4 @@
 # legendary-broccoli
 class Test{
-  public
+  public static
 }
